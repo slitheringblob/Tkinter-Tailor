@@ -1,2 +1,2 @@
 # Tkinter-Tailor
-A tutorial to python's GUI Maker.
+A self-explanatory tutorial to python's GUI Maker.
